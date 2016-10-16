@@ -1,0 +1,13 @@
+header {
+	background-color: #eebb44;
+	margin-bottom: 40px;
+}
+
+.charname {
+	font-weight: bold;
+}
+
+.col-4 {
+	border: 1px lightgray solid;
+	margin: 10px;
+}
